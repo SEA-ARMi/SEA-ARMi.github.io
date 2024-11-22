@@ -1,9 +1,9 @@
 ---
 ---
 
-# SEA-ARM's Website
+# SEA-ARMi's Website
 
-An engaging 1-3 sentence description of your lab.
+South Eeat Asia Antifungal Resistance Monitoring initiative
 
 {% include section.html %}
 

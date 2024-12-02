@@ -4,7 +4,7 @@ image: images/Personel/fikran-head.jpg
 role: phd
 group: alum
 links:
-  github: niar002
+  google-scholar: 5jlGLkwAAAAJ
 ---
 BIOINFORMATICS RESEARCHER – FIKRAN ARANDA FAHRUDIN, M.Sc. 
 

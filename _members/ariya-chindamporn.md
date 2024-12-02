@@ -4,7 +4,6 @@ aliases:
   - Ariya Chindamporn
   - A. Chindamporn
 
-
 image: images/Personel/ariya-head.jpg
 role: pi
 links:

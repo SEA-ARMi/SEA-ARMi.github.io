@@ -3,33 +3,39 @@ title: Team
 nav:
   order: 3
   tooltip: About our team
+redirect_from:
+  - /lab-members
+  - /alums
+  - /mascots
+  - /staff
+  - /trainees
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# <i class="fas fa-users"></i>FAILSAFE Project Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fungal AMR Innovations for LMICS: Solutions and Access For Everyone). We work with a wide range of outstanding groups from microbiologists, mycologists, and bioinformaticians. <br>
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: master, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{:.center}
+We are recruiting more collaborator, please contact us!!!
 
-{% include section.html %}
+# {% include section.html %}
 
-{% capture content %}
+#{ % capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+# {% include figure.html image="images/photo.jpg" %}
+# {% include figure.html image="images/photo.jpg" %}
+# {% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
+# {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+# {% include grid.html style="square" content=content %}

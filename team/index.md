@@ -11,25 +11,22 @@ Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fung
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: master, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html dark=true %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 {:.center}
 We are recruiting more collaborator, please contact us!!!
 
-# {% include section.html %}
+{% include section.html %}
 
-#{ % capture content %}
+{ % capture content %}
 
-# {% include figure.html image="images/photo.jpg" %}
-# {% include figure.html image="images/photo.jpg" %}
-# {% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
 
-# {% endcapture %}
+{% endcapture %}
 
-# {% include grid.html style="square" content=content %}
+{% include grid.html style="square" content=content %}

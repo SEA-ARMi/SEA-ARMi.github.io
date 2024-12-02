@@ -5,6 +5,7 @@ role: phd
 group: alum
 links:
   github: niar002
+  google-scholar: 0XpEMdUAAAAJ
 ---
 MICROBIOLOGY RESEARCHER - SYAHRIAR NUR MAULANA MALIK IBRAHIM, M.Sc. / Pref. name: NIAR IBRAHIM ROSE 
 

@@ -1,11 +1,17 @@
 - name: FAILSAFE
   group: other
-  image: images/logo/FAILSAFE-logo.png
+  image: images/logo/F1.PNG
   link: https://cmm-failsafe.com/
   description: Fungal AMR Innovations for LMICS Solutions and Access For Everyone
 
 - name: MRC
   group: other
-  image: images/logo/MRC logo.png
+  image: images/logo/MRC2.PNG
   link: https://www.exeter.ac.uk/research/medicalmycology/
   description: The Medical Research Council Centre for Medical Mycology (MRC CMM) at the University of Exeter
+
+- name: University of Exeter
+  group: other
+  image: images/logo/UoE3.PNG
+  link: https://www.exeter.ac.uk/
+  description: University of Exeter

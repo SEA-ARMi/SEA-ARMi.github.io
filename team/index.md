@@ -12,6 +12,7 @@ redirect_from:
 ---
 
 # <i class="fas fa-users"></i>FAILSAFE Project Team
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
 Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fungal AMR Innovations for LMICS: Solutions and Access For Everyone). We work with a wide range of outstanding groups from microbiologists, mycologists, and bioinformaticians. <br>
 

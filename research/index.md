@@ -17,12 +17,9 @@ By fostering international collaboration, the project will create a biobank of p
 
 This project is funding by Seedcorn Grant of FAILSAFE – Fungal AMR Innovations for LMICS: Solutions and Access For Everyone, The MRC Centre for Medical Mycology (MRC CMM), University of Exeter:
 
+---
 https://cmm-failsafe.com/strengthening-agricultural-biosecurity-in-southeast-asia-a-multinational-biobank-initiative-for-who-filamentous-fungal-pathogens-to-enhance-pathogen-monitoring-and-resistance-detection-chulalongkor/
----
-
 image: images/logo/FAILSAFE-logo.png
----
-
 image: images/logo/MRC logo.png
 ---
 

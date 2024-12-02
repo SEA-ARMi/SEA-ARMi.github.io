@@ -20,7 +20,7 @@ This project is funding by Seedcorn Grant of FAILSAFE – Fungal AMR Innovations
 ---
 https://cmm-failsafe.com/strengthening-agricultural-biosecurity-in-southeast-asia-a-multinational-biobank-initiative-for-who-filamentous-fungal-pathogens-to-enhance-pathogen-monitoring-and-resistance-detection-chulalongkor/
 ---
-{% include list.html data="organization" component="card" filters="group: other" style="large" %}
+{% include list.html data="organization" component="card" filters="group: other" style="small" %}
 
 {% include section.html %}
 

@@ -5,6 +5,7 @@ image: images/Personel/ariya-head.jpg
 role: pi
 links:
   orcid: 0000-0002-9761-1670
+  google-scholar: TgO3RqkAAAAJ
 ---
 CO-INVESTIGATOR – Assoc. Prof. Dr. ARIYA CHINDAMPORN  
 

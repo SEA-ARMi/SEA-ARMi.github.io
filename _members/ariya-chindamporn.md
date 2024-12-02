@@ -5,7 +5,7 @@ aliases:
   - A. Chindamporn
 
 
-image: images/Personel/pombubpa-head.jpg
+image: images/Personel/ariya-head.jpg
 role: pi
 links:
   orcid: 0000-0002-9761-1670

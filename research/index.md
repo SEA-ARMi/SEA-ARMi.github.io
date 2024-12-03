@@ -15,10 +15,8 @@ Using advanced genomic technologies, this initiative aims to analyze fungal geno
 
 By fostering international collaboration, the project will create a biobank of pathogenic fungi, develop genomic datasets, and build a regional expert network. This resource will aid swift identification of fungal threats, enable targeted interventions, and address antifungal resistance, ultimately improving public health and one-health solutions in Southeast Asia. Lessons learned will benefit other regions facing similar challenges.
 
-This project is funding by Seedcorn Grant of FAILSAFE – Fungal AMR Innovations for LMICS: Solutions and Access For Everyone, The MRC Centre for Medical Mycology (MRC CMM), University of Exeter:
+This project is funding by Seedcorn Grant of [FAILSAFE – Fungal AMR Innovations for LMICS: Solutions and Access For Everyone, The MRC Centre for Medical Mycology (MRC CMM), University of Exeter]([[https://swcarpentry.github.io/shell-novice/](https://www.qiagen.com/sg/resources/download.aspx?id=5a0517a7-711d-4085-8a28-2bb25fab828a&lang=en](https://cmm-failsafe.com/strengthening-agricultural-biosecurity-in-southeast-asia-a-multinational-biobank-initiative-for-who-filamentous-fungal-pathogens-to-enhance-pathogen-monitoring-and-resistance-detection-chulalongkor/)))
 
----
-https://cmm-failsafe.com/strengthening-agricultural-biosecurity-in-southeast-asia-a-multinational-biobank-initiative-for-who-filamentous-fungal-pathogens-to-enhance-pathogen-monitoring-and-resistance-detection-chulalongkor/
 ---
 
 ## Funded by
@@ -29,7 +27,7 @@ https://cmm-failsafe.com/strengthening-agricultural-biosecurity-in-southeast-asi
 
 ## Protocols
 
-{% include list.html data="protocol" component="card" filters="group: featured" %}
+{% include list.html data="posts" component="card" filters="group: featured" %}
 
 {% include section.html %}
 

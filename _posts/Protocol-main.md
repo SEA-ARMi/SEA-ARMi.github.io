@@ -37,4 +37,4 @@ There are three parts that needs to do by the collaborator, that are:
 %}
 
 References
-- [Qiagen - DNeasy soil extraction kit]([https://swcarpentry.github.io/shell-novice/](https://www.qiagen.com/sg/resources/download.aspx?id=5a0517a7-711d-4085-8a28-2bb25fab828a&lang=en))
+- [Qiagen - DNeasy soil extraction kit](https://www.qiagen.com/sg/resources/download.aspx?id=5a0517a7-711d-4085-8a28-2bb25fab828a&lang=en)

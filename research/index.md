@@ -29,7 +29,7 @@ https://cmm-failsafe.com/strengthening-agricultural-biosecurity-in-southeast-asi
 
 ## Protocols
 
-{% include list.html data="posts" component="card" filters="group: featured" %}
+{% include list.html data="posts/protocol" component="card" filters="group: featured" %}
 
 {% include section.html %}
 

@@ -47,7 +47,7 @@ There are three parts that needs to do by the collaborator, that are:
   include figure.html
   image="images/protocol/P3.PNG"
   caption="Collaborator third step"
-  width="650px"
+  width="1000px"
 %}
 
 {% include section.html %}

@@ -27,7 +27,7 @@ This project is funding by Seedcorn Grant of [FAILSAFE – Fungal AMR Innovation
 
 ## Protocols
 
-{% include list.html data="protocol" component="card" filters="group: featured" %}
+{% include list.html data="protocol" component="card" filters="group: protocol" %}
 
 {% include section.html %}
 

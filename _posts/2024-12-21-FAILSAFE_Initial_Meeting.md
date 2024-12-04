@@ -1,6 +1,6 @@
 ---
 title: FAILSAFE Project Initial Meeting
-image: images/news/21Nov2024.png
+image: images/Personel/niar-head.jpg
 author: jane-smith
 ---
 

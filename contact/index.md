@@ -28,7 +28,7 @@ SEA-ARMi is under [Nat Pombubpa Lab](http://www.natpombubpa-lab.github.io), whic
   link="https://goo.gl/maps/3deoeW5ZrVQ6NX7aA"
 %}
 
-## <i class="fas fa-map-marked fa-sm"></i>Mailing Address
+# {% include icon.html icon="fas fa-map-marked fa-sm" %}Mailing Address
 
 {:.center}
 Department of Microbiology, Faculty of Science, Chulalongkorn University, 

@@ -2,7 +2,9 @@
 title: FAILSAFE Project Initial Meeting
 image: images/news/21Nov2024.png
 author: niar-ibrahim-rose
-tags: news, update
+tags: 
+  - news
+  - update
 ---
 
 ## Initial Meeting

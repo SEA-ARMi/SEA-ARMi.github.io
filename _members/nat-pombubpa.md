@@ -7,7 +7,7 @@ aliases:
   - Nuttapon (Nat) Pombubpa
 
 image: images/Personel/pombubpa-head.jpg
-role: pi
+role: lead-pi
 links:
   orcid: 0000-0003-3385-5331
   home-page: https://natpombubpa-lab.github.io

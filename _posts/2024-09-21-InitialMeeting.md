@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: Initial Meeting
 image: images/news/21Nov2024.png
 author: niar-rose
 tags: news, update

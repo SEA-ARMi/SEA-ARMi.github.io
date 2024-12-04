@@ -8,9 +8,9 @@ tags: news, update
 ## Initial Meeting
 
 {%
-  include gallery.html
+  include figure.html
   image="images/news/21Nov2024.png"
-  size=full
+  width=400px
 %}
 
 {% include section.html %}

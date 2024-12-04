@@ -1,20 +1,16 @@
 ---
 title: FAILSAFE Project Initial Meeting
-image: images/photo.jpg
-author: Niar Ibrahim Rose
-tags: 
-  -news
-  -update
+image: images/news/21Nov2024.png
+author: niar-ibrahim-rose
+tags: news, update
 ---
 
 ## Initial Meeting
 
 {%
   include gallery.html
-  image1="images/blog/Miseq1.jpg"
-  image2="images/blog/Miseq2.jpg"
-  image3="images/blog/Miseq3.jpg"
-  style="square"
+  image="images/news/21Nov2024.png"
+  size=full
 %}
 
 The initial meeting for our project took place on Thursday, November 21, 2024, at 9:15 AM (UK time) / 4:15 PM (Bangkok time). Key agenda items were addressed, including:

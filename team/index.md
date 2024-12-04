@@ -10,7 +10,7 @@ nav:
 Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fungal AMR Innovations for LMICS: Solutions and Access For Everyone). We work with a wide range of outstanding groups from microbiologists, mycologists, and bioinformaticians. <br>
 
 {% include section.html %}
-
+{% include list.html data="members" component="portrait" filter="role == 'lead-pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 

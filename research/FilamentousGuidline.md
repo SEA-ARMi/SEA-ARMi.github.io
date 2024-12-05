@@ -11,7 +11,7 @@ The [WHO Fungal Priority Pathogens List (FPPL)](https://www.who.int/publications
 {%
   include figure.html
   image="images/content/F1-list.PNG"
-  caption="WHO Fungal Pathogen Priority List"
+  caption="WHO Fungal Pathogen Priority List. World Health Otganization, 2022"
   width="750px"
 %}
 
@@ -21,7 +21,17 @@ The lack of comprehensive environmental surveys in Southeast Asia complicates th
 {%
   include figure.html
   image="images/content/F2-asean.PNG"
-  caption="Red box, the urgency of WHO FPPL in Southeast Asia"
+  caption="Red box, the urgency of WHO FPPL in Southeast Asia. Casalini, Giacomelli, & Antinori, 2024"
   width="750px"
 %}
+
+###Filamentous WHO-FPPL
+Filamentous fungi are a group of fungi characterized by the presence of long, thread-like structures called hyphae. These hyphae grow in a branching, network-like formation called a mycelium, which is the vegetative part of the fungus. Filamentous fungi are responsible for a wide range of environmental processes, including decomposition, and can also cause various infections in humans, especially in immunocompromised individuals.
+
+###Key Characteristics:
+*Hyphal Structure: Hyphae are long, thin filaments that spread across surfaces and grow by extending at their tips.
+*Mycelium: A mass of hyphae forms the mycelium, which can infiltrate substrates, allowing the fungus to absorb nutrients.
+*Reproduction: These fungi can reproduce both sexually and asexually, with spore production being common, which allows them to spread and colonize new environments.
+Common examples of filamentous fungi include species from genera such as Aspergillus, Fusarium, Penicillium, and Mucor, which can have significant medical, environmental, and industrial relevance.
+These fungi can thrive in various environments, including soil, decaying organic matter, and indoor spaces, where they may pose health risks when inhaled, particularly to those with weakened immune systems.
 

@@ -15,7 +15,7 @@ The [WHO Fungal Priority Pathogens List (FPPL)](https://www.who.int/publications
   width="750px"
 %}
 
-In Thailand, fungal pathogens like Candida albicans, Cryptococcus neoformans, and Talaromyces marneffei have been reported in hospitals, with non-albicans Candida species like Candida tropicalis and Candida glabrata also prevalent. Despite the presence of certain pathogens in clinical settings, many others, such as Acremonium spp., Fusarium spp., and Mucor spp., remain under-monitored.
+In Thailand, fungal pathogens like _Candida albicans, Cryptococcus neoformans,_ and _Talaromyces marneffei_ have been reported in hospitals, with non-albicans Candida species like Candida tropicalis and Candida glabrata also prevalent. Despite the presence of certain pathogens in clinical settings, many others, such as _Acremonium_ spp., _Fusarium_ spp., and _Mucor_ spp., remain under-monitored.
 The lack of comprehensive environmental surveys in Southeast Asia complicates the understanding of fungal pathogen reservoirs, especially in tropical habitats. The GlobalFungi database shows limited surveys in Thailand, highlighting the need for focused environmental studies. Moreover, there is a general absence of WHO FPPL data across the region, pointing to significant gaps in fungal pathogen monitoring (Table 1).
 
 {%
@@ -32,6 +32,31 @@ Filamentous fungi are a group of fungi characterized by the presence of long, th
 * Hyphal Structure: Hyphae are long, thin filaments that spread across surfaces and grow by extending at their tips.
 * Mycelium: A mass of hyphae forms the mycelium, which can infiltrate substrates, allowing the fungus to absorb nutrients.
 * Reproduction: These fungi can reproduce both sexually and asexually, with spore production being common, which allows them to spread and colonize new environments.
-Common examples of filamentous fungi include species from genera such as Aspergillus, Fusarium, Penicillium, and Mucor, which can have significant medical, environmental, and industrial relevance.
+Common examples of filamentous fungi include species from genera such as _Aspergillus, Fusarium, Penicillium,_ and _Mucor_, which can have significant medical, environmental, and industrial relevance.
 These fungi can thrive in various environments, including soil, decaying organic matter, and indoor spaces, where they may pose health risks when inhaled, particularly to those with weakened immune systems.
+<br>
 
+Common examples of filamentous fungi include species from genera such as _Aspergillus, Fusarium, Penicillium,_ and _Mucor_, which can have significant medical, environmental, and industrial relevance.
+These fungi can thrive in various environments, including soil, decaying organic matter, and indoor spaces, where they may pose health risks when inhaled, particularly to those with weakened immune systems.
+For this FAILSAFE Project, our target is Eumycetoma causative agents, _Fusarium_ group, and Mucorales order.
+<br>
+
+##* Eumycetoma causative agents
+Group of fungi makes a serious tissue infection caused by fungi from soil and water, entering the body through skin breaks. Fungal agents include Madurella spp., Acremonium spp., Curvularia lunata, Falciformispora senegalensis, Fusarium spp., Scedosporium spp., Zopfia rosatii, and others, though data is limited. It primarily affects impoverished individuals, causing significant life disruption and leading to amputation in some cases. High-risk groups are young male farmers, with amputation rates reaching up to 39% (Figure 2).
+
+{%
+  include figure.html
+  image="images/content/F3-mycetoma.PNG"
+  caption="Eumycetoma update. Sande & Fahal, 2024"
+  width="850px"
+%}
+
+##* Fusarium group
+Fusarium spp. are molds found mainly in tropical regions, though they are globally distributed in soil and decomposing organic material. They can cause invasive infections, particularly in the respiratory system and eyes, and can spread to other organs, including the central nervous system. These fungi are also capable of causing fungaemia due to their ability to release spores into the bloodstream.
+##* Mucorales order
+Group of pathogenic molds, including Rhizopus spp., Mucor spp., and Lichthiemia spp., that can cause mucormycosis when their spores are inhaled. These molds primarily affect the lungs and sinuses but can also spread to the eyes, brain, and gastrointestinal tract. Infection can also occur through skin wounds, especially after trauma or burns. Mucormycosis does not spread between individuals. It is most common in immunocompromised patients, such as those with cancer, diabetes, or trauma injuries. The disease has a high mortality rate, ranging from 23% to 80% in adults, and up to 72.7% in children. Risk factors include neutropenia, diabetes, and trauma.
+
+References:
+*[World Health Organization. 2022. WHO fungal priority pathogens list to guide research, development and public health action](https://www.who.int/publications/i/item/9789240060241)
+*[Casalini, Giacomelli, & Antinori. 2024. The WHO fungal priority pathogens list: a crucial reappraisal to review the prioritisation ](https://www.thelancet.com/action/showPdf?pii=S2666-5247%2824%2900042-9)
+*[Sande & Fahal. 2024. An updated list of eumycetoma causative agents and their differences in grain formation and treatment response](https://journals.asm.org/doi/epdf/10.1128/cmr.00034-23)

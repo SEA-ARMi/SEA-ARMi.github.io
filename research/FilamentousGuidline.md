@@ -15,3 +15,13 @@ The [WHO Fungal Priority Pathogens List (FPPL)](https://www.who.int/publications
   width="750px"
 %}
 
+In Thailand, fungal pathogens like Candida albicans, Cryptococcus neoformans, and Talaromyces marneffei have been reported in hospitals, with non-albicans Candida species like Candida tropicalis and Candida glabrata also prevalent. Despite the presence of certain pathogens in clinical settings, many others, such as Acremonium spp., Fusarium spp., and Mucor spp., remain under-monitored.
+The lack of comprehensive environmental surveys in Southeast Asia complicates the understanding of fungal pathogen reservoirs, especially in tropical habitats. The GlobalFungi database shows limited surveys in Thailand, highlighting the need for focused environmental studies. Moreover, there is a general absence of WHO FPPL data across the region, pointing to significant gaps in fungal pathogen monitoring (Table 1).
+
+{%
+  include figure.html
+  image="images/content/F2-asean.PNG"
+  caption="Red box, the urgency of WHO FPPL in Southeast Asia"
+  width="750px"
+%}
+

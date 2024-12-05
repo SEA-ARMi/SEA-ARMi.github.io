@@ -6,6 +6,6 @@
 
 - name: Filamentous WHO-FPPL
   group: protocol
-  image: images/protocol/PSumm.PNG
+  image: images/content/F2-asean.PNG
   link: https://SEA-ARMi.github.io/research/FilamentousGuidline
   description: Filamentous WHO-FPPL guideline

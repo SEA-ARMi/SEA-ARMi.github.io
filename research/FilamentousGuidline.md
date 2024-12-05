@@ -11,7 +11,7 @@ The [WHO Fungal Priority Pathogens List (FPPL)](https://www.who.int/publications
 {%
   include figure.html
   image="images/content/F1-list.PNG"
-  caption="WHO Fungal Pathogen Priority List. World Health Otganization, 2022"
+  caption="Figure 1. WHO Fungal Pathogen Priority List. World Health Otganization, 2022"
   width="750px"
 %}
 
@@ -41,21 +41,22 @@ These fungi can thrive in various environments, including soil, decaying organic
 For this FAILSAFE Project, our target is Eumycetoma causative agents, _Fusarium_ group, and Mucorales order.
 <br>
 
-* Eumycetoma causative agents
-Group of fungi makes a serious tissue infection caused by fungi from soil and water, entering the body through skin breaks. Fungal agents include Madurella spp., Acremonium spp., Curvularia lunata, Falciformispora senegalensis, Fusarium spp., Scedosporium spp., Zopfia rosatii, and others, though data is limited. It primarily affects impoverished individuals, causing significant life disruption and leading to amputation in some cases. High-risk groups are young male farmers, with amputation rates reaching up to 39% (Figure 2).
+## Eumycetoma causative agents<br>
+Group of fungi makes a serious tissue infection caused by fungi from soil and water, entering the body through skin breaks. Fungal agents include _Madurella_ spp., _Acremonium_ spp., _Curvularia lunata_, _Falciformispora senegalensis_, _Fusarium_ spp., _Scedosporium_ spp., _Zopfia rosatii_, and others, though data is limited. It primarily affects impoverished individuals, causing significant life disruption and leading to amputation in some cases. High-risk groups are young male farmers, with amputation rates reaching up to 39% (Figure 2).
 
 {%
   include figure.html
   image="images/content/F3-mycetoma.PNG"
-  caption="Eumycetoma update. Sande & Fahal, 2024"
+  caption="Figure 2. Eumycetoma update. Sande & Fahal, 2024"
   width="850px"
 %}
 
-* Fusarium group
-Fusarium spp. are molds found mainly in tropical regions, though they are globally distributed in soil and decomposing organic material. They can cause invasive infections, particularly in the respiratory system and eyes, and can spread to other organs, including the central nervous system. These fungi are also capable of causing fungaemia due to their ability to release spores into the bloodstream.
+## Fusarium group<br>
+_Fusarium_ spp. are molds found mainly in tropical regions, though they are globally distributed in soil and decomposing organic material. They can cause invasive infections, particularly in the respiratory system and eyes, and can spread to other organs, including the central nervous system. These fungi are also capable of causing fungaemia due to their ability to release spores into the bloodstream.
 <br>
-* Mucorales order
-Group of pathogenic molds, including Rhizopus spp., Mucor spp., and Lichthiemia spp., that can cause mucormycosis when their spores are inhaled. These molds primarily affect the lungs and sinuses but can also spread to the eyes, brain, and gastrointestinal tract. Infection can also occur through skin wounds, especially after trauma or burns. Mucormycosis does not spread between individuals. It is most common in immunocompromised patients, such as those with cancer, diabetes, or trauma injuries. The disease has a high mortality rate, ranging from 23% to 80% in adults, and up to 72.7% in children. Risk factors include neutropenia, diabetes, and trauma.
+## Mucorales order<br>
+Group of pathogenic molds, including _Rhizopus_ spp., _Mucor_ spp., and _Lichthiemia_ spp., that can cause mucormycosis when their spores are inhaled. These molds primarily affect the lungs and sinuses but can also spread to the eyes, brain, and gastrointestinal tract. Infection can also occur through skin wounds, especially after trauma or burns. Mucormycosis does not spread between individuals. It is most common in immunocompromised patients, such as those with cancer, diabetes, or trauma injuries. The disease has a high mortality rate, ranging from 23% to 80% in adults, and up to 72.7% in children. Risk factors include neutropenia, diabetes, and trauma.
+<br>
 <br>
 References:
 * [World Health Organization. 2022. WHO fungal priority pathogens list to guide research, development and public health action](https://www.who.int/publications/i/item/9789240060241)

@@ -3,8 +3,14 @@
 
 # SEA-ARMi's Website
 
-South Eeat Asia Antifungal Resistance Monitoring initiative
 
+The South East Asia Antifungal Resistance Monitoring Initiative (SEA-ARMi) is a collaborative research effort focused on understanding and addressing antifungal resistance across Southeast Asia. <br>
+This initiative aims to:<br>
+* Monitor Antifungal Resistance: Conduct surveillance to identify patterns and prevalence of resistance in fungal pathogens affecting human, animal, and environmental health.
+* Strengthen Regional Collaboration: Foster partnerships among researchers, clinicians, and laboratories in the region to share data, methodologies, and expertise.
+* Enhance Treatment Outcomes: Provide insights into resistance mechanisms to inform treatment strategies and improve patient care.
+* Support Public Health Efforts: Contribute to global efforts in managing fungal diseases and minimizing the impact of antifungal resistance, which is an emerging public health concern.
+<br>This initiative reflects a proactive approach to tackling a significant challenge in medical mycology by leveraging regional cooperation and scientific innovation.
 {% include section.html %}
 
 ## Highlights

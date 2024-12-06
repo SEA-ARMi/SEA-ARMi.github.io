@@ -21,13 +21,3 @@ Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fung
 We are recruiting more collaborator, please contact us!!!
 
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}

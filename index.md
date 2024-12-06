@@ -52,7 +52,7 @@ We are also actively recruiting potential collaborators who are interested in co
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/logo/logo5.png"
   link="team"
   title="Our Team"
   text=text

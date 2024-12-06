@@ -11,7 +11,8 @@ South Eeat Asia Antifungal Resistance Monitoring initiative
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+FAILSAFE Projects: Tackling Filamentous WHO-FPPL in Southeast Asia!<br>
+Discover Our Research on Detecting Filamentous WHO-FPPL in Southeast Asia!
 
 {%
   include button.html
@@ -26,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/logo/logo4.png"
   link="research"
   title="Our Research"
   text=text
@@ -35,7 +36,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our FAILSAFE personnel! We are a team of microbiologists, mycologists, and bioinformaticians passionate about addressing environmental and medical issues.<br>
+We are also actively recruiting potential collaborators who are interested in contributing to our project.
 
 {%
   include button.html

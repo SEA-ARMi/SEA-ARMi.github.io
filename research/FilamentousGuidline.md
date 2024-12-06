@@ -21,7 +21,7 @@ The lack of comprehensive environmental surveys in Southeast Asia complicates th
 {%
   include figure.html
   image="images/content/F2-asean.PNG"
-  caption="Red box, the urgency of WHO FPPL in Southeast Asia. Casalini, Giacomelli, & Antinori, 2024"
+  caption="Table 1. Red box, the urgency of WHO FPPL in Southeast Asia. Casalini, Giacomelli, & Antinori, 2024"
   width="750px"
 %}
 

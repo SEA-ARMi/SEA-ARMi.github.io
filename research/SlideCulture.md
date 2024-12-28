@@ -35,7 +35,7 @@ Step 3: Add the sterile water 500 uL to the Petri dish.<br>
 Step 4: Put the slide glass to the V-shape glass rod, please put it carefully and avoid too many movements for making the slide glass keep on the position. (Figure 1)
 {%
   include figure.html
-  image=" images/protocol/SC1.PNG"
+  image="images/protocol/SC1.PNG"
   caption="Figure 1. NatPombubpa Lab documentation"
   width="600px"
 %}
@@ -43,7 +43,7 @@ Step 4: Put the slide glass to the V-shape glass rod, please put it carefully an
 Step 5: Cut the agar to the square shape using sharp side of spatula or scalpel. (Figure 2)
 {%
   include figure.html
-  image=" images/protocol/SC2.PNG"
+  image="images/protocol/SC2.PNG"
   caption="Figure 2. NatPombubpa Lab documentation"
   width="600px"
 %}
@@ -83,7 +83,7 @@ The growth fungal colony will be checked under the microscope using 100 or 40
 For better resolution of the structure, adding lactophenol blue is recommended. (Figure 7)
 {%
   include figure.html
-  image="images/protocol/SC7.PNG"
+  image="images/protocol/SC7.png"
   caption="Figure 7. NatPombubpa Lab documentation"
   width="600px"
 %}

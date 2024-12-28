@@ -18,6 +18,6 @@
 
 - name: Targeted Filamentous WHO-FPPL
   group: protocol
-  image: images/protocol/TargetNail.png
+  image: images/protocol/TargetNail1.png
   link: https://SEA-ARMi.github.io/research/TargetedWHO
   description: Targeted Filamentous WHO-FPPL

@@ -29,10 +29,10 @@ Everything should be sterilized:<br>
 
 ### 2. Processes
 The slide culture preparation must be done in Biosafety Cabinet (BSC).<br>
-Step 1: Prepare all equipment in the BSC and put the forceps and spatula or scalpel into the ethanol in the jar.<br>
-Step 2: Put the V-shape glass rod to the Petri dish.<br>
-Step 3: Add the sterile water 500 uL to the Petri dish.<br>
-Step 4: Put the slide glass to the V-shape glass rod, please put it carefully and avoid too many movements for making the slide glass keep on the position. (Figure 1)
+**Step 1**: Prepare all equipment in the BSC and put the forceps and spatula or scalpel into the ethanol in the jar.<br>
+**Step 2**: Put the V-shape glass rod to the Petri dish.<br>
+**Step 3**: Add the sterile water 500 uL to the Petri dish.<br>
+**Step 4**: Put the slide glass to the V-shape glass rod, please put it carefully and avoid too many movements for making the slide glass keep on the position. (Figure 1)
 {%
   include figure.html
   image="images/protocol/SC1.PNG"
@@ -40,7 +40,7 @@ Step 4: Put the slide glass to the V-shape glass rod, please put it carefully an
   width="600px"
 %}
 
-Step 5: Cut the agar to the square shape using sharp side of spatula or scalpel. (Figure 2)
+**Step 5**: Cut the agar to the square shape using sharp side of spatula or scalpel. (Figure 2)
 {%
   include figure.html
   image="images/protocol/SC2.PNG"
@@ -48,7 +48,7 @@ Step 5: Cut the agar to the square shape using sharp side of spatula or scalpel.
   width="600px"
 %}
 
-Step 6: Transfer the square shape agar to the slide glass carefully using forceps (Figure 3)
+**Step 6**: Transfer the square shape agar to the slide glass carefully using forceps (Figure 3)
 {%
   include figure.html
   image="images/protocol/SC3.PNG"
@@ -56,7 +56,7 @@ Step 6: Transfer the square shape agar to the slide glass carefully using forcep
   width="600px"
 %}
 
-Step 7: Inoculate the fungal from pure colony (5 days age) to the agar using burned needle Ose to get a bit spore. (Figure 4)
+**Step 7**: Inoculate the fungal from pure colony (5 days age) to the agar using burned needle Ose to get a bit spore. (Figure 4)
 {%
   include figure.html
   image="images/protocol/SC4.PNG"
@@ -64,7 +64,7 @@ Step 7: Inoculate the fungal from pure colony (5 days age) to the agar using bur
   width="600px"
 %}
 
-Step 8: Cover the inoculated spore using cover glass and close the Petri dish. Wrap the edge of the dish using parafilm or plastic wrap. Incubate the slide culture for 3 to 5 days. Make sure the spore has already formed based on the colony characteristic before identifying under the microscope. (Figure 5)
+**Step 8**: Cover the inoculated spore using cover glass and close the Petri dish. Wrap the edge of the dish using parafilm or plastic wrap. Incubate the slide culture for 3 to 5 days. Make sure the spore has already formed based on the colony characteristic before identifying under the microscope. (Figure 5)
 {%
   include figure.html
   image="images/protocol/SC5.PNG"
@@ -72,7 +72,7 @@ Step 8: Cover the inoculated spore using cover glass and close the Petri dish. W
   width="600px"
 %}
 
-The growth fungal colony will be checked under the microscope using 100 or 400 magnification. (Figure 6)
+The growth fungal colony will be checked under the microscope using 100X or 400X magnification. (Figure 6)
 {%
   include figure.html
   image="images/protocol/SC6.PNG"
@@ -80,7 +80,7 @@ The growth fungal colony will be checked under the microscope using 100 or 40
   width="600px"
 %}
 
-For better resolution of the structure, adding lactophenol blue is recommended. (Figure 7)
+For better resolution of the structure, adding **lactophenol blue is recommended**. (Figure 7)
 {%
   include figure.html
   image="images/protocol/SC7.png"

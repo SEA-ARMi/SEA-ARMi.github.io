@@ -9,3 +9,9 @@
   image: images/content/F2-asean.PNG
   link: https://SEA-ARMi.github.io/research/FilamentousGuidline
   description: Filamentous WHO-FPPL guideline
+
+- name: Slide Culture Technique
+  group: protocol
+  image: images/protocol/SCNail.jpg
+  link: https://SEA-ARMi.github.io/research/SlideCulture
+  description: Slide Culture Procedure

@@ -15,3 +15,9 @@
   image: images/protocol/SCNail.jpg
   link: https://SEA-ARMi.github.io/research/SlideCulture
   description: Slide Culture Procedure
+
+- name: Targeted Filamentous WHO-FPPL
+  group: protocol
+  image: images/protocol/TargetNail.png
+  link: https://SEA-ARMi.github.io/research/TargetedWHO
+  description: Targeted Filamentous WHO-FPPL

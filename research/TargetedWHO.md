@@ -107,7 +107,7 @@ _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widel
 {%
   include figure.html
   image="images/protocol/Target4.png"
-  caption="**Figure 4.** _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
+  caption="**Figure 4.** _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **Asp** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
 Reference for [_Rhizopus_](https://www.adelaide.edu.au/mycology/rhizopus#rhizopus-microsporus)

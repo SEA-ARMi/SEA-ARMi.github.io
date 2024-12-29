@@ -7,7 +7,7 @@ author: niar-rose
 There are three targeted filamentous WHO-FPPL that we concern, which are **_Fusarium_**, **Eumycetoma causative agents**, and **Mucorales**. In this illustration, we used the isolate from collection culture the Department of Microbiology, Faculty of Science, Chulalongkorn University. <br> 
 For preparing this identification, we used the [Slide Culture Technique.](https://sea-armi.github.io/research/SlideCulture) Please check on the linked page.
 ### _Fusarium_
-**1.** _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232 on PDA medium (**Figure 1**).<br>
+**1. _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232** on PDA medium (**Figure 1**).<br>
 _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsible for Fusarium wilt in tomato plants (_Solanum lycopersicum_), causing significant global crop losses. It invades the plant's vascular system, leading to wilting and is known for its resilience and persistence in soil.
 
 #### Characteristics
@@ -34,7 +34,7 @@ _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsi
 Reference for [_Fusarium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/hyphomycetes-conidial-moulds/fusarium#fusarium-oxysporum-complex)
 
 ### Eumycetoma causative agents
-**2.** _Chaetomium globosum_ – MSCU0004 on PDA medium (**Figure 2**). <br>
+**2. _Chaetomium globosum_ – MSCU0004** on PDA medium (**Figure 2**). <br>
 _Chaetomium globosum_ is a filamentous fungus commonly found in soil, decaying organic matter, and plant debris. It is known for its saprophytic lifestyle and ability to degrade cellulose, making it a significant organism in natural decomposition processes. However, it can act as an opportunistic pathogen, causing infections in humans and plants under certain conditions.
 
 #### Characteristics
@@ -60,7 +60,7 @@ _Chaetomium globosum_ is a filamentous fungus commonly found in soil, decaying o
 Reference for [_Chaetomium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/ascomycota#chaetomium-spp)
 
 ### Mucorales
-**3.** _Mucor rouxii_(+) – MSCU0009 on PDA medium (**Figure 3**). <br>
+**3. _Mucor rouxii_(+) – MSCU0009** on PDA medium (**Figure 3**). <br>
 _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonly found in soil and decaying organic matter. It is known for its dimorphic nature, exhibiting both filamentous and yeast-like growth forms depending on environmental conditions. While primarily saprophytic, _Mucor rouxii_ can act as an opportunistic pathogen, particularly in immunocompromised individuals, causing infections such as mucormycosis.
 
 #### Characteristics
@@ -85,7 +85,7 @@ _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonl
 %}
 Reference for [_Mucor_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/zygomycota-pin-moulds/mucor#mucor-ramosissimus)
 
-**4.** _Rhizopus_ sp. – MSCU0015 on PDA medium (**Figure 4**). <br>
+**4. _Rhizopus_ sp. – MSCU0015** on PDA medium (**Figure 4**). <br>
 _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widely distributed in soil, decaying organic material, and various foods. These fungi are known for their saprophytic lifestyle and rapid growth, making them significant decomposers. However, some species, such as _Rhizopus oryzae_ and _Rhizopus arrhizus_, are opportunistic pathogens, causing mucormycosis in immunocompromised individuals.
 
 #### Characteristics

@@ -80,7 +80,7 @@ _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonl
 {%
   include figure.html
   image="images/protocol/Target3.png"
-  caption="Figure 3. _Mucor rouxii_(+) – MSCU0009. "
+  caption="Figure 3. _Mucor rouxii_(+) – MSCU0009. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems hyphae-like than _Rhizopus_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
 Reference for [_Mucor_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/zygomycota-pin-moulds/mucor#mucor-ramosissimus)
@@ -106,7 +106,7 @@ _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widel
 {%
   include figure.html
   image="images/protocol/Target4.png"
-  caption="Figure 4. _Rhizopus_ sp. – MSCU0015. "
+  caption="Figure 4. _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
 Reference for [_Rhizopus_](https://www.adelaide.edu.au/mycology/rhizopus#rhizopus-microsporus)

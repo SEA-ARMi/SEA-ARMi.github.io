@@ -28,7 +28,7 @@ _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsi
 {%
   include figure.html
   image="images/protocol/Target1.png"
-  caption="Figure 1. _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232"
+  caption="**Figure 1.** _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232"
   width="600px"
 %}
 Reference for [_Fusarium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/hyphomycetes-conidial-moulds/fusarium#fusarium-oxysporum-complex)
@@ -54,7 +54,7 @@ _Chaetomium globosum_ is a filamentous fungus commonly found in soil, decaying o
 {%
   include figure.html
   image="images/protocol/Target2.png"
-  caption="Figure 2. _Chaetomium globosum_ – MSCU0004"
+  caption="**Figure 2.** _Chaetomium globosum_ – MSCU0004"
   width="600px"
 %}
 Reference for [_Chaetomium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/ascomycota#chaetomium-spp)
@@ -80,7 +80,7 @@ _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonl
 {%
   include figure.html
   image="images/protocol/Target3.png"
-  caption="Figure 3. _Mucor rouxii_(+) – MSCU0009. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems hyphae-like than _Rhizopus_), **Spg** – Sporangium, **Spp** – Sporangiophore."
+  caption="**Figure 3.** _Mucor rouxii_(+) – MSCU0009. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems hyphae-like than _Rhizopus_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
 Reference for [_Mucor_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/zygomycota-pin-moulds/mucor#mucor-ramosissimus)
@@ -92,7 +92,8 @@ _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widel
 **Morphology**: Rapidly growing colonies with a cottony or fluffy texture, typically white at first, turning grayish to black as sporangia mature. The reverse of the plate may show a pale to dark coloration, depending on the medium.<br>
 **On PDA**: Forms dense, fast-spreading colonies that can cover the plate within 24–48 hours under optimal conditions.<br>
 **Spore Production**: Produces sporangia at the tips of sporangiophores, which are long, unbranched, and terminate in round, dark sporangia containing sporangiospores. Rhizoids (root-like structures) are present at the base of the sporangiophores, a distinguishing feature.<br>
-**Growth Conditions**: Thrives at 25–37°C, with rapid growth in high humidity and nutrient-rich environments.
+**Growth Conditions**: Thrives at 25–37°C, with rapid growth in high humidity and nutrient-rich environments.<br>
+**Pathogenicity**: Causes mucormycosis, particularly rhinocerebral, pulmonary, and cutaneous infections, primarily in individuals with diabetes, neutropenia, or trauma.
 
 #### Classification
 **Kingdom**: Fungi<br>
@@ -102,11 +103,11 @@ _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widel
 **Family**: Mucoraceae<br>
 **Genus**: _Rhizopus_<br>
 <br>
-**Pathogenicity**: Causes mucormycosis, particularly rhinocerebral, pulmonary, and cutaneous infections, primarily in individuals with diabetes, neutropenia, or trauma.
+
 {%
   include figure.html
   image="images/protocol/Target4.png"
-  caption="Figure 4. _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
+  caption="**Figure 4.** _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
 Reference for [_Rhizopus_](https://www.adelaide.edu.au/mycology/rhizopus#rhizopus-microsporus)

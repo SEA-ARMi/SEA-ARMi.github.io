@@ -15,6 +15,12 @@ Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fung
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
+{% include section.html %}
+
+# Meet Our Southeast-Asian Collaborator
+{% include list.html data="members" component="portrait" filter="role == 'col-id'" %}
+{% include list.html data="members" component="portrait" filter="role == 'col-ph'" %}
+
 {% include section.html background="images/background.jpg" dark=true %}
 
 {:.center}

@@ -10,9 +10,13 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-col:
+col-id:
   icon: fa-solid fa-microscope
-  description: Collaborator
+  description: Indonesia Collaborator
+
+col-ph:
+  icon: fa-solid fa-microscope
+  description: Philippines Collaborator
 
 postdoc:
   icon: fa-solid fa-glasses

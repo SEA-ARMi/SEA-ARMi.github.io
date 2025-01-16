@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}FAILSAFE Project Team
 
-Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fungal AMR Innovations for LMICS: Solutions and Access For Everyone). We work with a wide range of outstanding groups from microbiologists, mycologists, and bioinformaticians. <br>
+Our project was recently established in December 2024 with seed funding from [FAILSAFE (Fungal AMR Innovations for LMICs: Solutions and Access for Everyone)](https://shorturl.at/hssvQ). We collaborate with an outstanding network of experts, including microbiologists, mycologists, and bioinformaticians, focusing on environmental and medical microbiology.<br>
 
 {% include section.html %}
 {% include list.html data="members" component="portrait" filter="role == 'lead-pi'" %}
@@ -24,6 +24,8 @@ Our project recently established in 2024 from seedcorn funding of FAILSAFE (Fung
 {% include section.html background="images/background.jpg" dark=true %}
 
 {:.center}
-We are recruiting more collaborator, please contact us!!!
+Are you a microbiologist specializing in fungi, with a passion for environmental and medical research?<br>
+We are actively seeking collaborators to join our exciting projects!!!<br>
+[Please contact us](https://sea-armi.github.io/contact/)
 
 {% include section.html %}

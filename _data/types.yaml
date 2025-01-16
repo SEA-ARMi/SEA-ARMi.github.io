@@ -12,11 +12,11 @@ pi:
 
 col-id:
   icon: fa-solid fa-microscope
-  description: Indonesia Collaborator
+  description: Indonesia Collaborator - Universitas Airlangga
 
 col-ph:
   icon: fa-solid fa-microscope
-  description: Philippines Collaborator
+  description: Philippines Collaborator - University of Santo Tomas 
 
 postdoc:
   icon: fa-solid fa-glasses

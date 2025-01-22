@@ -1,6 +1,6 @@
 - name: FAILSAFE Project Protocol
   group: protocol
-  image: images/protocol/PSumm.PNG
+  image: images/protocol/pro1sum.png
   link: https://SEA-ARMi.github.io/research/protocol-main
   description: Protocol summary for all of collaborator
 

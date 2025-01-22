@@ -4,7 +4,7 @@ image: images/protocol/PSumm.PNG
 author: niar-rose
 tags: protocol
 ---
-#Collaborator To-Do List
+# Collaborator To-Do List
 This is a summary of the collaborator's role in the FAILSAFE Project under the SEA-ARMi seed corn grant.
   {%
   include figure.html

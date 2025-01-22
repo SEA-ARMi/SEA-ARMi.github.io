@@ -5,43 +5,38 @@ author: niar-rose
 tags: protocol
 ---
 
-This is our summary of the collaborator role for FAILSAFE Project.
+This is the summary of the collaborator role for FAILSAFE Project.
   {%
   include figure.html
-  image="images/protocol/PSumm.PNG"
+  image="images/protocol/pro1sum.png"
   caption="Protocol summary for collaborator"
   width="650px"
 %}
 {% include section.html %}
 
-There are three parts that needs to do by the collaborator, that are:
+There are three parts that need to do by the collaborator, that are:
 <br>
 
 ### 1. Soil sample collection
   {%
   include figure.html
-  image="images/protocol/P1.PNG"
+  image="images/protocol/pro1.PNG"
   caption="Collaborator first step"
-  width="500px"
+  width="650px"
 %}
 
-### 2. Fungal colony isolation and cell DNA extraction
+### 2. Soil DNA extraction
   {%
   include figure.html
-  image="images/protocol/P2-1.PNG"
-  width="500px"
-%}
-  {%
-  include figure.html
-  image="images/protocol/P2-2.PNG"
+  image="images/protocol/pro2.PNG"
   caption="Collaborator second step"
-  width="500px"
+  width="1000px"
 %}
 
-### 3. Soil DNA extraction
+### 3. Fungal colony isolation and cell DNA extraction
   {%
   include figure.html
-  image="images/protocol/P3.PNG"
+  image="images/protocol/pro3.PNG"
   caption="Collaborator third step"
   width="1000px"
 %}

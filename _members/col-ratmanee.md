@@ -2,7 +2,7 @@
 name: Ratmanee Chanabun
 
 image: images/Personel/col-ratmanee-head.jpg
-role: col-th
+role: col-thai
 links:
   google-scholar: 73rtMfMAAAAJ
 ---

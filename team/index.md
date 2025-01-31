@@ -18,8 +18,10 @@ Our project was recently established in December 2024 with seed funding from [FA
 {% include section.html %}
 
 # Meet Our Southeast-Asian Collaborator
+{% include list.html data="members" component="portrait" filter="role == 'col-thai'" %}
 {% include list.html data="members" component="portrait" filter="role == 'col-id'" %}
 {% include list.html data="members" component="portrait" filter="role == 'col-ph'" %}
+{% include list.html data="members" component="portrait" filter="role == 'col-ml'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

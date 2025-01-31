@@ -3,6 +3,8 @@ name: Ratmanee Chanabun
 
 image: images/Personel/col-ratmanee-head.jpg
 role: col-th
+links:
+  google-scholar: 73rtMfMAAAAJ
 ---
 THAILAND INVESTIGATOR – Dr. RATMANEE CHANABUN
 

@@ -16,7 +16,15 @@ col-id:
 
 col-ph:
   icon: fa-solid fa-microscope
-  description: Philippines Collaborator - University of Santo Tomas 
+  description: Philippines Collaborator - University of Santo Tomas
+
+col-th:
+  icon: fa-solid fa-microscope
+  description: Thailand Collaborator - Sakon Nakhon Rajabhat University 
+
+col-ml:
+  icon: fa-solid fa-microscope
+  description: Malaysia Collaborator - Universiti Kebangsaan Malaysia
 
 postdoc:
   icon: fa-solid fa-glasses

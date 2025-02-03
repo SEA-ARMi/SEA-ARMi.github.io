@@ -4,6 +4,7 @@ name: Jaycee Augusto G. Paguirigan
 image: images/Personel/col-jaycee-head.jpg
 role: col-ph
 links:
+  orcid: 0000-0003-4435-7979
   google-scholar: 73rtMfMAAAAJ
 ---
 PHILIPPINES INVESTIGATOR – Dr. JAYCEE AUGUSTO G. PAGUIRIGAN 

@@ -4,9 +4,10 @@ image: images/protocol/TargetNail1.png
 author: niar-rose
 ---
 # TARGETED FILAMENTOUS WHO-FPPL
-There are three targeted filamentous WHO-FPPL that we concern, which are **_Fusarium_**, **Eumycetoma causative agents**, and **Mucorales**. In this illustration, we used the isolate from collection culture the Department of Microbiology, Faculty of Science, Chulalongkorn University. <br> 
+There are three targeted filamentous WHO-FPPL that we concern, which are **_Fusarium_ spp.**, **Eumycetoma causative agents**, and **Mucorales**. In this illustration, we used the isolate from collection culture the Department of Microbiology, Faculty of Science, Chulalongkorn University. <br> 
 For preparing this identification, we used the [Slide Culture Technique.](https://sea-armi.github.io/research/SlideCulture) Please check on the linked page.
-### _Fusarium_
+### _Fusarium_ spp.
+Here is the genera included in _Fusarium_ spp. that we have in Nat Pombubpa Lab:
 **1. _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232** on PDA medium (**Figure 1**).<br>
 _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsible for Fusarium wilt in tomato plants (_Solanum lycopersicum_), causing significant global crop losses. It invades the plant's vascular system, leading to wilting and is known for its resilience and persistence in soil.
 
@@ -34,6 +35,18 @@ _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsi
 Reference for [_Fusarium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/hyphomycetes-conidial-moulds/fusarium#fusarium-oxysporum-complex)
 
 ### Eumycetoma causative agents
+The target genera included in Eumycetoma causative agents are:<br>
+_Madurella mycetomatis_ <br>
+_Madurella tropicana_ <br>
+_Madurella fahalii_ <br>
+_Madurella pseudomycetomatis_ <br>
+_Falciformispora senegalensis_ <br>
+_Curvularia lunata_ <br>
+_Scedosporium spp._ <br>
+_Acremonium spp._ <br>
+_Zopfia rosatii_ <br>
+<br>
+Here is the genera included in Eumycetoma causative agents that we have in Nat Pombubpa Lab:
 **2. _Chaetomium globosum_ – MSCU0004** on PDA medium (**Figure 2**). <br>
 _Chaetomium globosum_ is a filamentous fungus commonly found in soil, decaying organic matter, and plant debris. It is known for its saprophytic lifestyle and ability to degrade cellulose, making it a significant organism in natural decomposition processes. However, it can act as an opportunistic pathogen, causing infections in humans and plants under certain conditions.
 
@@ -60,6 +73,16 @@ _Chaetomium globosum_ is a filamentous fungus commonly found in soil, decaying o
 Reference for [_Chaetomium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/ascomycota#chaetomium-spp)
 
 ### Mucorales
+The target genera included in the Mucorales order are:<br>
+_Rhizopus_ spp.<br>
+_Mucor_ spp.<br>
+_Lichtheimia_ spp.<br>
+_Rhizomucor_ spp.<br>
+_Cunninghamella_ spp.<br>
+_Syncephalastrum_ spp.<br>
+_Apophysomyces_ spp<br>
+<br>
+Here are examples of Mucorales representatives that we have in Nat Pombubpa Lab:
 **3. _Mucor rouxii_(+) – MSCU0009** on PDA medium (**Figure 3**). <br>
 _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonly found in soil and decaying organic matter. It is known for its dimorphic nature, exhibiting both filamentous and yeast-like growth forms depending on environmental conditions. While primarily saprophytic, _Mucor rouxii_ can act as an opportunistic pathogen, particularly in immunocompromised individuals, causing infections such as mucormycosis.
 

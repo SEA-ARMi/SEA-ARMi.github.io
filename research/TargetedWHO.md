@@ -39,25 +39,25 @@ The target genera included in Eumycetoma causative agents are:<br>
 _Acremonium falciforme_ synonym: _Cephalosporium falciforme_ <br>
 _Acremonium_ spp. <br>
 _Aspergillus flavus_ <br>
-_Aspergillus fumigatus _<br>
-_Aspergillus nidulans _<br>
+_Aspergillus fumigatus_ <br>
+_Aspergillus nidulans_ <br>
 _Cladosporium_ spp. <br>
-_Cochliobolus lunatus_ synonym: _Curvularia lunata_<br>
+_Cochliobolus lunatus_ synonym: _Curvularia lunata_ <br>
 _Exophiala_ spp. <br>
-_Falciformispora senegalensis_ synonym: _Leptosphaeria senegalensis_ 
+_Falciformispora senegalensis_ synonym: _Leptosphaeria senegalensis_ <br>
 _Fusarium_ spp. <br>
-_Geotrichum candidum_<br>
+_Geotrichum candidum_ <br>
 _Madurella fahalii_ <br>
 _Madurella mycetomatis_ <br>
 _Madurella pseudomycetomatis_ <br>
 _Madurella tropicana_ <br>
 _Medicopsis romeroi_ or _Biatriospora mackinnonii_ synonym: _Pyrenochaeta_ spp. <br> 
-_Microsporum audouini_<br>
-_Neoscytalidium dimidiatum_<br>
-_Neotestudina rosatii_<br>
-_Rhinocladiella atrovirens_<br>
+_Microsporum audouini_ <br>
+_Neoscytalidium dimidiatum_ <br>
+_Neotestudina rosatii_ <br>
+_Rhinocladiella atrovirens_ <br>
 _Scedosporium_ spp. <br>
-_Trematosphaeria grisea_ synonym: _Madurella grisea_<br>
+_Trematosphaeria grisea_ synonym: _Madurella grisea_ <br>
 _Zopfia rosatii_ <br>
 <br>
 

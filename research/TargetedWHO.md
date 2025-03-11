@@ -36,41 +36,32 @@ Reference for [_Fusarium_](https://www.adelaide.edu.au/mycology/fungal-descripti
 
 ### Eumycetoma causative agents
 The target genera included in Eumycetoma causative agents are:<br>
-_Madurella mycetomatis_ <br>
-_Madurella tropicana_ <br>
+_Acremonium falciforme_ synonym: _Cephalosporium falciforme_ <br>
+_Acremonium_ spp. <br>
+_Aspergillus flavus_ <br>
+_Aspergillus fumigatus _<br>
+_Aspergillus nidulans _<br>
+_Cladosporium_ spp. <br>
+_Cochliobolus lunatus_ synonym: _Curvularia lunata_<br>
+_Exophiala_ spp. <br>
+_Falciformispora senegalensis_ synonym: _Leptosphaeria senegalensis_ 
+_Fusarium_ spp. <br>
+_Geotrichum candidum_<br>
 _Madurella fahalii_ <br>
+_Madurella mycetomatis_ <br>
 _Madurella pseudomycetomatis_ <br>
-_Falciformispora senegalensis_ <br>
-_Curvularia lunata_ <br>
-_Scedosporium spp._ <br>
-_Acremonium spp._ <br>
+_Madurella tropicana_ <br>
+_Medicopsis romeroi_ or _Biatriospora mackinnonii_ synonym: _Pyrenochaeta_ spp. <br> 
+_Microsporum audouini_<br>
+_Neoscytalidium dimidiatum_<br>
+_Neotestudina rosatii_<br>
+_Rhinocladiella atrovirens_<br>
+_Scedosporium_ spp. <br>
+_Trematosphaeria grisea_ synonym: _Madurella grisea_<br>
 _Zopfia rosatii_ <br>
 <br>
-Here is the genera included in Eumycetoma causative agents that we have in Nat Pombubpa Lab:
-**2. _Chaetomium globosum_ – MSCU0004** on PDA medium (**Figure 2**). <br>
-_Chaetomium globosum_ is a filamentous fungus commonly found in soil, decaying organic matter, and plant debris. It is known for its saprophytic lifestyle and ability to degrade cellulose, making it a significant organism in natural decomposition processes. However, it can act as an opportunistic pathogen, causing infections in humans and plants under certain conditions.
 
-#### Characteristics
-**Morphology**: Produces fluffy, cottony colonies that are initially white, turning to grayish-green or olive with maturity. Its surface texture is typically velvety or powdery.<br>
-**On PDA**: Colonies grow rapidly, displaying a greenish to brownish pigment as they age. The reverse of the agar may exhibit a yellowish to brown coloration.<br>
-**Spore Production**: Forms lemon-shaped (elliptical) ascospores with dark, rough walls inside spherical perithecia (fruiting bodies).<br>
-**Growth Conditions**: Optimal growth occurs between 25–30°C, though it can tolerate a wide range of environmental conditions.
-
-#### Classification
-**Kingdom**: Fungi<br>
-**Phylum**: Ascomycota<br>
-**Class**: Sordariomycetes<br>
-**Order**: Sordariales<br>
-**Family**: Chaetomiaceae<br>
-**Genus**: _Chaetomium_<br>
-**Species**: _Chaetomium globosum_<br>
-{%
-  include figure.html
-  image="images/protocol/Target2.png"
-  caption="**Figure 2.** _Chaetomium globosum_ – MSCU0004"
-  width="600px"
-%}
-Reference for [_Chaetomium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/ascomycota#chaetomium-spp)
+Reference for [Eumycetoma causative agents](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0002550)
 
 ### Mucorales
 The target genera included in the Mucorales order are:<br>

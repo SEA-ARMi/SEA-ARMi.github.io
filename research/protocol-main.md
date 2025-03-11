@@ -27,7 +27,7 @@ Please check the protocol detail [here](https://dx.doi.org/10.17504/protocols.io
 %}
 
 ### 2. Soil DNA extraction
-Please check the protocol detail [here](dx.doi.org/10.17504/protocols.io.dm6gp9295vzp/v1)
+Please check the protocol detail [here](https://dx.doi.org/10.17504/protocols.io.dm6gp9295vzp/v1)
   {%
   include figure.html
   image="images/protocol/pro2.PNG"
@@ -46,7 +46,5 @@ Please check the protocol detail [here](dx.doi.org/10.17504/protocols.io.dm6gp92
 References:
 - [Qiagen - DNeasy soil extraction kit](https://www.qiagen.com/sg/resources/download.aspx?id=5a0517a7-711d-4085-8a28-2bb25fab828a&lang=en)
 - [Qiagen - AllPrep Fungal DNA kit](https://www.qiagen.com/hr/resources/download.aspx?id=bf2e6517-b02c-4501-bc4e-e288b5e466d3&lang=en) 
-- [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Soil Collection Protocol. protocols.io]
-(https://dx.doi.org/10.17504/protocols.io.6qpvr929pvmk/v1)
-- [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Environmental DNA (e-DNA) extraction from soil. protocols.io]
-(dx.doi.org/10.17504/protocols.io.dm6gp9295vzp/v1)
+- [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Soil Collection Protocol. protocols.io](https://dx.doi.org/10.17504/protocols.io.6qpvr929pvmk/v1)
+- [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Environmental DNA (e-DNA) extraction from soil. protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gp9295vzp/v1)

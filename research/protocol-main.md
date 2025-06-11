@@ -36,6 +36,7 @@ Please check the protocol detail [here](https://dx.doi.org/10.17504/protocols.io
 %}
 
 ### 3. Fungal colony isolation and cell DNA extraction
+Please check the protocol detail [here](dx.doi.org/10.17504/protocols.io.3byl4w1krvo5/v1)
   {%
   include figure.html
   image="images/protocol/pro3.PNG"
@@ -48,3 +49,4 @@ References:
 - [Qiagen - AllPrep Fungal DNA kit](https://www.qiagen.com/hr/resources/download.aspx?id=bf2e6517-b02c-4501-bc4e-e288b5e466d3&lang=en) 
 - [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Soil Collection Protocol. protocols.io](https://dx.doi.org/10.17504/protocols.io.6qpvr929pvmk/v1)
 - [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Environmental DNA (e-DNA) extraction from soil. protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gp9295vzp/v1)
+- [Nuttapon Pombubpa, Ariya Chindamporn, Nattapol Kraisitudomsook, Neil Andrew Robert Gow, Syahriar Nur Maulana Malik Ibrahim, Fikran Aranda Fahrudin 2025. Fungal Isolation and Cell DNA (c-DNA) Extraction from Soil Samples. protocols.io]([https://dx.doi.org/10.17504/protocols.io.dm6gp9295vzp/v1](https://dx.doi.org/10.17504/protocols.io.3byl4w1krvo5/v1))

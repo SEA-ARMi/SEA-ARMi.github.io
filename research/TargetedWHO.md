@@ -1,4 +1,4 @@
-![Target1-1](https://github.com/user-attachments/assets/762f63ff-3321-489b-8835-f93abbef14c5)---
+---
 title: Target Filamentous WHO-FPPL
 image: images/protocol/TargetNail1.png
 author: niar-rose

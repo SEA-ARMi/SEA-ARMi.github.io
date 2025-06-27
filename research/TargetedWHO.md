@@ -16,7 +16,7 @@ The target species in _Fusarium_ spp. are listed in the **Figure 1**:<br>
   width="600px"
 %}
 
-Here is the genera included in _Fusarium_ spp. that we have in Nat Pombubpa Lab:
+Here is the genera included in _Fusarium_ spp. that we have in Nat Pombubpa Lab:<br>
 **1. _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232** on PDA medium (**Figure 2**).<br>
 _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsible for Fusarium wilt in tomato plants (_Solanum lycopersicum_), causing significant global crop losses. It invades the plant's vascular system, leading to wilting and is known for its resilience and persistence in soil.
 
@@ -44,15 +44,13 @@ _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsi
 Reference for [_Fusarium_ spp.](https://journals.asm.org/doi/full/10.1128/cmr.00159-22)
 
 ### Eumycetoma causative agents
-The target genera included in Eumycetoma causative agents are listed in the Figure 3:<br>
+The target genera included in Eumycetoma causative agents are listed in the **Figure 3**:<br>
 {%
   include figure.html
   image="images/protocol/Target3-1.jpg"
   caption="**Figure 3.** Eumycetoma causative agents list"
   width="600px"
 %}
-<br>
-
 Reference for [Eumycetoma causative agents](https://www.sciencedirect.com/science/article/pii/S2949915124000325)
 
 ### Mucorales
@@ -64,8 +62,8 @@ The target genera included in the Mucorales order are listed in the **Figure 4**
   width="600px"
 %}
 
-Here are examples of Mucorales representatives that we have in Nat Pombubpa Lab:
-**3. _Mucor rouxii_(+) – MSCU0009** on PDA medium (**Figure 5**). <br>
+Here are examples of Mucorales representatives that we have in Nat Pombubpa Lab:<br>
+**2. _Mucor rouxii_(+) – MSCU0009** on PDA medium (**Figure 5**). <br>
 _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonly found in soil and decaying organic matter. It is known for its dimorphic nature, exhibiting both filamentous and yeast-like growth forms depending on environmental conditions. While primarily saprophytic, _Mucor rouxii_ can act as an opportunistic pathogen, particularly in immunocompromised individuals, causing infections such as mucormycosis.
 
 #### Characteristics
@@ -89,7 +87,7 @@ _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonl
   width="600px"
 %}
 
-**4. _Rhizopus_ sp. – MSCU0015** on PDA medium (**Figure 6**). <br>
+**3. _Rhizopus_ sp. – MSCU0015** on PDA medium (**Figure 6**). <br>
 _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widely distributed in soil, decaying organic material, and various foods. These fungi are known for their saprophytic lifestyle and rapid growth, making them significant decomposers. However, some species, such as _Rhizopus oryzae_ and _Rhizopus arrhizus_, are opportunistic pathogens, causing mucormycosis in immunocompromised individuals.
 
 #### Characteristics

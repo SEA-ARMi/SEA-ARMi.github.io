@@ -1,14 +1,23 @@
----
+![Target1-1](https://github.com/user-attachments/assets/762f63ff-3321-489b-8835-f93abbef14c5)---
 title: Target Filamentous WHO-FPPL
 image: images/protocol/TargetNail1.png
 author: niar-rose
 ---
 # TARGETED FILAMENTOUS WHO-FPPL
 There are three targeted filamentous WHO-FPPL that we concern, which are **_Fusarium_ spp.**, **Eumycetoma causative agents**, and **Mucorales**. In this illustration, we used the isolate from collection culture the Department of Microbiology, Faculty of Science, Chulalongkorn University. <br> 
-For preparing this identification, we used the [Slide Culture Technique.](https://sea-armi.github.io/research/SlideCulture) Please check on the linked page.
+For preparing this identification, we used the [Slide Culture Technique.](https://sea-armi.github.io/research/SlideCulture) Please check on the linked page. <br>
 ### _Fusarium_ spp.
+The target species in _Fusarium_ spp. are listed in the **Figure 1**:<br>
+
+{%
+  include figure.html
+  image="images/protocol/Target1-1.jpg"
+  caption="**Figure 1.** _Fusarium_ spp. list"
+  width="600px"
+%}
+
 Here is the genera included in _Fusarium_ spp. that we have in Nat Pombubpa Lab:
-**1. _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232** on PDA medium (**Figure 1**).<br>
+**1. _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232** on PDA medium (**Figure 2**).<br>
 _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsible for Fusarium wilt in tomato plants (_Solanum lycopersicum_), causing significant global crop losses. It invades the plant's vascular system, leading to wilting and is known for its resilience and persistence in soil.
 
 #### Characteristics
@@ -29,52 +38,34 @@ _Fusarium oxysporum_ f.sp. lycopersici is a filamentous fungal pathogen responsi
 {%
   include figure.html
   image="images/protocol/Target1.png"
-  caption="**Figure 1.** _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232"
+  caption="**Figure 2.** _Fusarium oxysporum_ f. sp. lycopersici DOAC 0874 – MSCU 0232"
   width="600px"
 %}
-Reference for [_Fusarium_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/hyphomycetes-conidial-moulds/fusarium#fusarium-oxysporum-complex)
+Reference for [_Fusarium_ spp.](https://journals.asm.org/doi/full/10.1128/cmr.00159-22)
 
 ### Eumycetoma causative agents
-The target genera included in Eumycetoma causative agents are:<br>
-_Acremonium falciforme_ synonym: _Cephalosporium falciforme_ <br>
-_Acremonium_ spp. <br>
-_Aspergillus flavus_ <br>
-_Aspergillus fumigatus_ <br>
-_Aspergillus nidulans_ <br>
-_Cladosporium_ spp. <br>
-_Cochliobolus lunatus_ synonym: _Curvularia lunata_ <br>
-_Exophiala_ spp. <br>
-_Falciformispora senegalensis_ synonym: _Leptosphaeria senegalensis_ <br>
-_Fusarium_ spp. <br>
-_Geotrichum candidum_ <br>
-_Madurella fahalii_ <br>
-_Madurella mycetomatis_ <br>
-_Madurella pseudomycetomatis_ <br>
-_Madurella tropicana_ <br>
-_Medicopsis romeroi_ or _Biatriospora mackinnonii_ synonym: _Pyrenochaeta_ spp. <br> 
-_Microsporum audouini_ <br>
-_Neoscytalidium dimidiatum_ <br>
-_Neotestudina rosatii_ <br>
-_Rhinocladiella atrovirens_ <br>
-_Scedosporium_ spp. <br>
-_Trematosphaeria grisea_ synonym: _Madurella grisea_ <br>
-_Zopfia rosatii_ <br>
+The target genera included in Eumycetoma causative agents are listed in the Figure 3:<br>
+{%
+  include figure.html
+  image="images/protocol/Target3-1.jpg"
+  caption="**Figure 3.** Eumycetoma causative agents list"
+  width="600px"
+%}
 <br>
 
-Reference for [Eumycetoma causative agents](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0002550)
+Reference for [Eumycetoma causative agents](https://www.sciencedirect.com/science/article/pii/S2949915124000325)
 
 ### Mucorales
-The target genera included in the Mucorales order are:<br>
-_Rhizopus_ spp.<br>
-_Mucor_ spp.<br>
-_Lichtheimia_ spp.<br>
-_Rhizomucor_ spp.<br>
-_Cunninghamella_ spp.<br>
-_Syncephalastrum_ spp.<br>
-_Apophysomyces_ spp<br>
-<br>
+The target genera included in the Mucorales order are listed in the **Figure 4**:<br>
+{%
+  include figure.html
+  image="images/protocol/Target2-1.jpg"
+  caption="**Figure 4.** Mucorales list"
+  width="600px"
+%}
+
 Here are examples of Mucorales representatives that we have in Nat Pombubpa Lab:
-**3. _Mucor rouxii_(+) – MSCU0009** on PDA medium (**Figure 3**). <br>
+**3. _Mucor rouxii_(+) – MSCU0009** on PDA medium (**Figure 5**). <br>
 _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonly found in soil and decaying organic matter. It is known for its dimorphic nature, exhibiting both filamentous and yeast-like growth forms depending on environmental conditions. While primarily saprophytic, _Mucor rouxii_ can act as an opportunistic pathogen, particularly in immunocompromised individuals, causing infections such as mucormycosis.
 
 #### Characteristics
@@ -94,12 +85,11 @@ _Mucor rouxii_ is a filamentous fungus belonging to the Mucorales order, commonl
 {%
   include figure.html
   image="images/protocol/Target3.png"
-  caption="**Figure 3.** _Mucor rouxii_(+) – MSCU0009. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems hyphae-like than _Rhizopus_), **Spg** – Sporangium, **Spp** – Sporangiophore."
+  caption="**Figure 5.** _Mucor rouxii_(+) – MSCU0009. Cell structures: Aseptate hyphae, **App** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems hyphae-like than _Rhizopus_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
-Reference for [_Mucor_](https://www.adelaide.edu.au/mycology/fungal-descriptions-and-antifungal-susceptibility/zygomycota-pin-moulds/mucor#mucor-ramosissimus)
 
-**4. _Rhizopus_ sp. – MSCU0015** on PDA medium (**Figure 4**). <br>
+**4. _Rhizopus_ sp. – MSCU0015** on PDA medium (**Figure 6**). <br>
 _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widely distributed in soil, decaying organic material, and various foods. These fungi are known for their saprophytic lifestyle and rapid growth, making them significant decomposers. However, some species, such as _Rhizopus oryzae_ and _Rhizopus arrhizus_, are opportunistic pathogens, causing mucormycosis in immunocompromised individuals.
 
 #### Characteristics
@@ -121,8 +111,8 @@ _Rhizopus_ species are filamentous fungi belonging to the Mucorales order, widel
 {%
   include figure.html
   image="images/protocol/Target4.png"
-  caption="**Figure 4.** _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **Asp** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
+  caption="**Figure 6.** _Rhizopus_ sp. – MSCU0015. Cell structures: Aseptate hyphae, **Asp** – Asexual spore, **Col** – Columella (spherical dome-shaped), **Rhz** – Rhizoid (seems root-like than _Mucor_), **Spg** – Sporangium, **Spp** – Sporangiophore."
   width="600px"
 %}
-Reference for [_Rhizopus_](https://www.adelaide.edu.au/mycology/rhizopus#rhizopus-microsporus)
+Reference for [Mucorales](https://www.sciencedirect.com/science/article/pii/S1198743X18305299)
 

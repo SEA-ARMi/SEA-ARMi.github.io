@@ -18,6 +18,10 @@ Our project was recently established in December 2024 with seed funding from [FA
 {% include section.html %}
 
 # Meet Our Southeast-Asian Collaborator
+
+Our consortium was initiated in May 2025, bringing together five collaborators from Southeast Asia — Thailand, Indonesia, the Philippines, Malaysia, and Vietnam. With diverse expertise in biology, mycology, biotechnology, and bioinformatics, our team shares a common interest in fungal diversity, environmental mycology, and medical mycology.
+
+{% include section.html %}
 {% include list.html data="members" component="portrait" filter="role == 'col-thai'" %}
 {% include list.html data="members" component="portrait" filter="role == 'col-id'" %}
 {% include list.html data="members" component="portrait" filter="role == 'col-ph'" %}

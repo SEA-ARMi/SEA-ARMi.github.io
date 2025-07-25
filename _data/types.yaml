@@ -26,6 +26,10 @@ col-ml:
   icon: fa-solid fa-microscope
   description: Malaysia Collaborator - Universiti Kebangsaan Malaysia
 
+col-vi:
+  icon: fa-solid fa-microscope
+  description: Vietnam Collaborator - Biotechnology Center of Ho Chi Minh City
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher

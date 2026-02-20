@@ -1,7 +1,7 @@
 ---
 name: Fikran Aranda Fahrudin 
 image: images/Personel/fikran-head.jpg
-role: researcher
+role: research
 group: alum
 links:
   google-scholar: 5jlGLkwAAAAJ

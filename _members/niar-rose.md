@@ -1,7 +1,7 @@
 ---
 name: Niar Ibrahim Rose 
 image: images/Personel/niar-head.jpg
-role: phd
+role: researcher
 group: alum
 links:
   github: niar002

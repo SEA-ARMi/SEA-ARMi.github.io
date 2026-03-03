@@ -44,24 +44,6 @@ Please check the protocol detail [here](https://www.protocols.io/view/fungal-iso
   width="1000px"
 %}
 
-### 4. Fungal Metagenomics Data Preprocessing
-Please check the protocol detail [here](https://natpombubpa-lab.github.io/resources/Metagenomics_preprocessing)
-  {%
-  include figure.html
-  image="images/protocol/pro3.PNG"
-  caption="Collaborator third step"
-  width="1000px"
-%}
-
-### 5. Fungal Metagenomics Data Visualizationn
-Please check the protocol detail [here](https://natpombubpa-lab.github.io/resources/Metagenomics_Visualization)
-  {%
-  include figure.html
-  image="images/protocol/pro3.PNG"
-  caption="Collaborator third step"
-  width="1000px"
-%}
-
 References:
 - [Qiagen - DNeasy soil extraction kit](https://www.qiagen.com/sg/resources/download.aspx?id=5a0517a7-711d-4085-8a28-2bb25fab828a&lang=en)
 - [Qiagen - AllPrep Fungal DNA kit](https://www.qiagen.com/hr/resources/download.aspx?id=bf2e6517-b02c-4501-bc4e-e288b5e466d3&lang=en) 

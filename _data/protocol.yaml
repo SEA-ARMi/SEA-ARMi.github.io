@@ -21,3 +21,16 @@
   image: images/protocol/TargetNail1.png
   link: https://SEA-ARMi.github.io/research/TargetedWHO
   description: Targeted Filamentous WHO-FPPL
+
+- name: Fungal Metagenomics Data Preprocessing
+  group: protocol
+  image: images/protocol/TargetNail1.png
+  link: https://natpombubpa-lab.github.io/resources/Metagenomics_preprocessing
+  description: Fungal Metagenomics Data - Preprocessing
+
+- name: Fungal Metagenomics Data Visualization
+  group: protocol
+  image: images/protocol/TargetNail1.png
+  link: https://natpombubpa-lab.github.io/resources/Metagenomics_Visualization
+  description: Fungal Metagenomics Data - Visualization
+
